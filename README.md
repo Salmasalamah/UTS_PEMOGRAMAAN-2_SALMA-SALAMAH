@@ -1,5 +1,6 @@
 # UTS_PEMOGRAMAAN-2_SALMA-SALAMAH
 GITHUB SAYA BERMASALAH, UPLOAD MALAH KE AKUN LAIN (GABISA DI GANTI AKUN)<img width="293" height="476" alt="image" src="https://github.com/user-attachments/assets/fac0e9e3-ecbc-40ed-99b9-f696fed715e5" />
+<img width="962" height="266" alt="image" src="https://github.com/user-attachments/assets/5d28d137-0592-4416-811f-f66945130417" />
 
 Bagian A – Teori
 1. Perbedaan antara Cubit dan BLoC
