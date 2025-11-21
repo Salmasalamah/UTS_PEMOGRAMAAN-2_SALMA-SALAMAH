@@ -1,4 +1,6 @@
 # UTS_PEMOGRAMAAN-2_SALMA-SALAMAH
+GITHUB SAYA BERMASALAH, UPLOAD MALAH KE AKUN LAIN (GABISA DI GANTI AKUN)<img width="293" height="476" alt="image" src="https://github.com/user-attachments/assets/fac0e9e3-ecbc-40ed-99b9-f696fed715e5" />
+
 Bagian A – Teori
 1. Perbedaan antara Cubit dan BLoC
 Cubit dan BLoC (Business Logic Component) adalah dua pola manajemen state yang disediakan oleh package flutter_bloc, keduanya bertujuan memisahkan logika bisnis dari antarmuka pengguna (UI). Perbedaan mendasar terletak pada kompleksitas dan mekanisme perubahan state. Cubit lebih sederhana; ia hanya menggunakan fungsi emit(newState) untuk secara langsung mengeluarkan state baru, menjadikannya ideal untuk state yang mudah dan tidak memerlukan pemrosesan kompleks. Sebaliknya, BLoC menggunakan pola Event-to-State; ia menerima Events (add(event)), memprosesnya melalui fungsi handler, lalu mengeluarkan State baru. BLoC lebih cocok untuk logika yang rumit, membutuhkan middleware, atau alur state yang kompleks.
